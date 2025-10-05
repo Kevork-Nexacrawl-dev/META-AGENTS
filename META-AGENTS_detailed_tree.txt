@@ -1,0 +1,164 @@
+Folder PATH listing
+Volume serial number is C482-85D3
+C:.
+|   detailed_tree.txt
+|   
++---.obsidian
+|   |   app.json
+|   |   appearance.json
+|   |   community-plugins.json
+|   |   core-plugins.json
+|   |   graph.json
+|   |   hotkeys.json
+|   |   workspace.json
+|   |   
+|   +---plugins
+|   |   +---make-md
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       styles.css
+|   |   |       
+|   |   +---obsidian-linter
+|   |   |       data.json
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       styles.css
+|   |   |       
+|   |   \---obsidian-local-rest-api
+|   |           data.json
+|   |           main.js
+|   |           manifest.json
+|   |           styles.css
+|   |           
+|   \---themes
+|       +---AnuPpuccin
+|       |       manifest.json
+|       |       theme.css
+|       |       
+|       +---Minimal
+|       |       manifest.json
+|       |       theme.css
+|       |       
+|       +---Obsidian Nord
+|       |       manifest.json
+|       |       theme.css
+|       |       
+|       \---Things
+|               manifest.json
+|               theme.css
+|               
++---ADVERSERIAL META AGENTS
+|       ADVERSARIALGROUNDER.md
+|       AIPICKER-PEPRO-ORCHO.md
+|       Anarchist TechMentor v1.0.md
+|       ARCHITECTURE SYNTHESIS ENGINE.md
+|       Archon-Evo.md
+|       CHAOS_CATALYST_3.md
+|       COGNITIVE ORCHESTRATION FRAMEWORK.md
+|       CreativeMind_1.md
+|       DUSTINEER_E37O4H.md
+|       ImagenInsight_Sonnet7.md
+|       NEXUS-K.O.P-INFINITY by Gemini 2.5 (better).md
+|       NEXUS-K.O.P-INFINITY.md
+|       PATTERN SYNTHESIS ARCHITECTURE.md
+|       THE PATTERN WEAVER - COGNITIVE ARCHITECTURE FRAMEWORK.md
+|       
++---AISTUDIO META AGENTS
+|       The Obsidian Architect.md
+|       
++---Fusion Two
+|   |   PFU-CriticalSync - PromptForge-ULTRA × MetaCriticalAI.md
+|   |   R&D-Nexus ??.md
+|   |   
+|   \---Fusion Table
+|           FUSION BLUEPRINT CATALOG.md
+|           
++---FUSIONS & MORE
+|       ADVERSARIALGROUNDER.md
+|       CREATIVE ORCHESTRA Layered.md
+|       CREATIVE ORCHESTRA.md
+|       CREATIVEALCHEMY ORCHESTRATOR.md
+|       DynaMeta.md
+|       DYNAMIC CREATIVE SYSTEM PROMPT ARCHITECT.md
+|       ForgeUltra-Innovator.md
+|       INNOVOPTIMIZE.md
+|       MetaUltimate.md
+|       Orchestrated-Hydra.md
+|       Orchestrated-Innovator.md
+|       PROMPTFORGE-ULTRA.md
+|       RIGOROUS MULTI-PHASE DYNAMIC CREATIVE ARCHITECT.md
+|       ??METAFORGE_WEAVER.md
+|       
++---HYPERPARAMETER SPs
+|       PROMPTAKILLA v2.0.md
+|       
++---META ORCHESTRATOR
+|       Claude Code Meta-Orchestrator.md
+|       Cognitive Orchestration Framework.md
+|       CreativeAlchemy Orchestrator AKA Creative_Alch_orchestrator.md
+|       CREATIVEALCHEMY ORCHESTRATOR.md
+|       ForgeUltra-Innovator AKA PromptForge-ULTRA.md
+|       JobSearchOrchestratorPM.md
+|       META FORTRESS MO_MetaFortress.md
+|       META ORCHESTRATOR 3.0 - MO_MetaOrch3-XML.md
+|       MetaOrchestrator.md
+|       MO_CENTRAL_INTELLIGENCE.md
+|       MO_combined_file.md
+|       MO_IdeaOrchestrator.md
+|       MO_IdeaOrchestrator2.md
+|       MO_PATTERN_SYNTHESIZER.md
+|       OPTIFORTRESS.md
+|       OrchestraRefine.md
+|       Orchestrated-Hydra.md
+|       Orchestrated-Innovator.md
+|       
++---MOST USED META AGENTS
+|       CREATIVEALCHEMY.md
+|       Fireprompt(SPA).md
+|       MetaCriticalAI.md
+|       METAFORTRESS.md
+|       PROMPTAHELPA.md
+|       PROMPTAKILLA.md
+|       PROMPTFORGE 2.0.md
+|       PromptForge-ULTRA.md
+|       PromptForge.md
+|       Promptforgedup_Daily.md
+|       SPA2 XML FORMAT.md
+|       SPA2.md
+|       
++---NEW TASK AGENTS
+|       CodeForge Pro.md
+|       CodeForgePro-Module12.md
+|       Shadow Esoteric Intelligence 2.0.md
+|       Shadow Esoteric Intelligence.md
+|       
++---Project Managers
+|       PM_CIOEA.md
+|       PM_combined_file.md
+|       PM_CPMAA.md
+|       PM_EATSG.md
+|       PM_MAPM.md
+|       PROJECTMAN - THE ULTIMATE PROJECT MANAGER.md
+|       
++---Prompt Masters & Teachers
+|       Elite Prompt Engineering Specialist.md
+|       
++---SP ANALYZERS
+|       SPAnalyzer-2pt1-EDITION-37O4H.md
+|       SPAnalyzer-37O4H (SP%).md
+|       
++---SP OPTIMIZERS
+|       OPTI-FORTRESS12.md
+|       Optimizer (SPO-).md
+|       SPO-PLUS.md
+|       SPO-Ultra.md
+|       SpoOptimizer_2.md
+|       SPoOptimizer_2_layered.md
+|       Spo_Opti_Fortress8.md
+|       
+\---UNCENSORED META AGENTS
+        HYDRAPROMPT.md
+        Shadow Esoteric Claude edition.md
+        Shadow Esoteric Intelligence 3.0.md
+        Shadow Esoteric Intelligence.md
+        

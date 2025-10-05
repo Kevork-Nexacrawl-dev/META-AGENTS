@@ -1,0 +1,22 @@
+# Workspace state (device-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin data (contains local API keys, personal settings)
+.obsidian/plugins/obsidian-local-rest-api/data.json
+
+# Cache folders
+.obsidian/cache/
+.obsidian/workspace/
+
+# Trash
+.trash/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+~$*.md
