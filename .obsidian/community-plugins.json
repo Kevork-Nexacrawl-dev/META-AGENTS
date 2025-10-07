@@ -1,5 +1,6 @@
 [
   "obsidian-linter",
   "obsidian-local-rest-api",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
