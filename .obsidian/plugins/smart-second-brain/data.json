@@ -37,5 +37,5 @@
   "isVerbose": false,
   "isOnboarded": false,
   "hideIncognitoWarning": false,
-  "isAutostart": true
+  "isAutostart": false
 }
